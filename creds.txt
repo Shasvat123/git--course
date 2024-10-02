@@ -1,2 +1,0 @@
-user bame= rxz
-pass = r567
